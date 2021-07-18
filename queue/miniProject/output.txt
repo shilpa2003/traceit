@@ -1,0 +1,16 @@
+queue:Q1,size:MAX,rear:rear,front:front;
+initial:MAX:9,rear:-1,front:-1;
+front:0;
+rear:0;
+Q1:0:10;
+front:0;
+rear:1;
+Q1:1:30;
+front:0;
+rear:2;
+Q1:2:40;
+Q1:0:10;
+front:1;
+front:1;
+rear:3;
+Q1:3:50;
